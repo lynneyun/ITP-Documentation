@@ -2,7 +2,7 @@
 
 In [this week's class](https://github.com/shiffman/A2Z-F20/tree/main/05-bots) with Dan, we learned about making bots in Twitter and Discord.
 
-### Note: The code for the assignment is uploaded on Github [here](https://github.com/lynneyun/ITP-Documentation/tree/master/Programming_from_A_to_Z/Session05-06/code).
+### Note: The code for the assignment is uploaded on Github (minus the .env) [here](https://github.com/lynneyun/ITP-Documentation/tree/master/Programming_from_A_to_Z/Session05-06/code).
 
 ## Initial Idea
 
@@ -27,3 +27,11 @@ So, great! All I would need to do would be to set up a Pi or something similar t
 
 As can expected, the reality of technical hurdles came crashing down. I tried to scale back my project so I could ACTUALLY achieve this within the assignment timeframe.
 
+Without getting into the nits and gritties, I struggled a lot to understand and get the examples working. I'm happy to say that I got somewhere, although it's not near where I would've liked to be.
+
+## Current Status!
+
+Right now, every time you tweet at my little test bot called Crabby, it replies with a random happy GIF.
+
+![exampleBot](img/Twitterbot.png)
+![exampleBot](img/Twitterbot2.png)
