@@ -23,14 +23,17 @@ Upon talking with Clay during office hours, I realized that perhaps my project c
 * [Collaborative Curiosity](https://public.imaginingamerica.org/blog/article/collaborative-curiosity-a-connected-learning-course-on-community-engaged-research/) by Valerie Holton, Laura Gogia, and Tessa McKenzie
 
 * [Talking Circles as a Metaphor and Pedagogy for Learning](https://www.leadershipeducators.org/Resources/Documents/Conferences/Lexington/cowan_and_adams_talking_circle.pdf) by David A. Cowan and Kathy Adams
+	* Takeaways: The significance of integrative conversation
 
 * [Rhythms of Learning](assets/RhythmsofLearning.pdf) by David A. Cowan
 
 * [Using the Medicine Wheel for Curriculum Design in Intercultural Communication: Rethinking Learning Outcomes](assets/Using-the-Medicine-Wheel-for-Curriculum-Design-in-Intercultural-Communication.pdf) by Marcella LaFever
 
+
 ### Keywords 
 (Trying to compile interesting terms)
 
+* integrative conversation
 * collaborative curiosity
 * learning communities
 * communities of practice
