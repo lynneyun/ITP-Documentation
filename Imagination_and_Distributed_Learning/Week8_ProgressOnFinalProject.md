@@ -1,5 +1,3 @@
-### Assignment F3: Draft and Feedback
-
 # Research and Proposal for a Peer-to-Peer Model of Learning
 
 **Summary**: My final project will be on research on the topic of learning as part of a community among peers. The project will take on the form of a long form written piece. The feedback that I will need is for someone to read my written draft and ask any further questions or give me advice about gaps I may need to fill. 
@@ -29,6 +27,10 @@ Upon talking with Clay during office hours, I realized that perhaps my project c
 
 * [Using the Medicine Wheel for Curriculum Design in Intercultural Communication: Rethinking Learning Outcomes](assets/Using-the-Medicine-Wheel-for-Curriculum-Design-in-Intercultural-Communication.pdf) by Marcella LaFever
 
+### To-Read List
+
+* [Social learning systems and communities of practice](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph004362229&vid=NYU&search_scope=all&tab=all&lang=en_US&context=L) by Chris Blackmore
+* [DIY Activists: Communities of Practice, Cultural Dialogism, and Radical Knowledge Sharing](http://web.a.ebscohost.com.proxy.library.nyu.edu/ehost/detail/detail?vid=0&sid=8d064d6d-7c75-49a4-9eab-87020288e612%40sessionmgr4008&bdata=JnNpdGU9ZWhvc3QtbGl2ZQ%3d%3d#AN=EJ995824&db=eric) by David Hemphill and Shari Leskowitz
 
 ### Keywords 
 (Trying to compile interesting terms)
@@ -38,3 +40,4 @@ Upon talking with Clay during office hours, I realized that perhaps my project c
 * learning communities
 * communities of practice
 * sharing circle
+* skillshare (not the company)
