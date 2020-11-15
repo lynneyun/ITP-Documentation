@@ -7,6 +7,7 @@ Continuing to learn after a formal educational environment is a challenge for ma
 
 
 ###Common pathways of adult learning (and their failures):
+
 (Note: These list conscious, intentional learning, and does not include unconscious learning)
 
 * Continuing Education Courses via Institutions:
