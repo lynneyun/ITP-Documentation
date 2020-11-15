@@ -6,7 +6,7 @@
 Continuing to learn after a formal educational environment is a challenge for many people, myself included. In a formal setting, there is often a secluded environment where cohorts of students are allowed to experiment, fail, and share learned experiences. Upon graduation, often people lose this sheltered environment. Although the desire for learning is still there, people are left in the dark, wondering how they could actively continue learning.  
 
 
-###Common pathways of adult learning (and their failures):
+### Common pathways of adult learning (and their failures):
 
 (Note: These list conscious, intentional learning, and does not include unconscious learning)
 
