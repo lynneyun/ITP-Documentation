@@ -36,3 +36,10 @@ It will be on the web, optimized for desktop and tablet.
 #### What is the nature of the interaction?
 
 The interaction will primarily be through navigating a sequence of scenes (currently envisioned as a long scroll)
+
+
+#### Feedback from Noah and Simone
+
+* look at the four stages of learning as a story structure!
+* book: The power of myth
+* book: A sideways look at time (chapter 6)
