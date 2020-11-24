@@ -25,3 +25,6 @@
 * Read *[An Introduction to Fractals](http://paulbourke.net/fractals/fracintro/)* by Paul Bourke
 * Watch the TED Talk [Fractals: a world in a grain of sand](https://www.youtube.com/watch?v=DHNooAe44dY) by Ben Weiss
 
+
+### Questions:
+* It seems that Dan has an exercise that seems to imply that individual parts can be moved, is this for non-CFG fractals or can this be applied to CFG fractals as well? And on a related note, is it possible to keep track of each 'branching' point (or is it impractical with CFG)? 
