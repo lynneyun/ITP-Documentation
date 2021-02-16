@@ -12,4 +12,4 @@ I especially found a lot of delight in being able to sweep up my 'worries' as ca
 
 ![img3](document_img/example.gif)
 
-#### Code Repository is [here]()
+#### Code Repository is [here](https://github.com/lynneyun/ITP-Documentation/tree/master/Nature%20of%20Code/Week2/AccelerationVector_followAlong)
