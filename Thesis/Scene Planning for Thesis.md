@@ -14,4 +14,6 @@ Learning is something we engage in our everyday lives, yet it is something we ma
 example sketches (also wip)
 
 ![img](assets/example1.png)
+[live demo here](https://editor.p5js.org/lynneyun/present/8tPVZTkGF)
+
 ![img](assets/example2.gif)
