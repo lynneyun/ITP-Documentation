@@ -18,3 +18,5 @@ My recent worries aren't too monumental, and seem cute at times (e.g. Will the c
 ![img2](document_img/example2.png)
 ![img3](document_img/example3.png)
 ![img3](document_img/example3.gif)
+
+#### Code Repository is [here](https://github.com/lynneyun/ITP-Documentation/tree/master/Nature%20of%20Code/Week1/Diffusion-Limited_Aggregation_followAlong)
